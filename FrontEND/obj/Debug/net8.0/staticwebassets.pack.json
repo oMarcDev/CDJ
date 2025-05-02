@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Marcelo\\source\\repos\\CDJ\\FrontEND\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FrontEND.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FrontEND.unbb07ovyk.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Marcelo\\source\\repos\\CDJ\\FrontEND\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Marcelo\\source\\repos\\CDJ\\FrontEND\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Marcelo\\source\\repos\\CDJ\\FrontEND\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Marcelo\\source\\repos\\CDJ\\FrontEND\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FrontEND.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FrontEND.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FrontEND.props",
+      "PackagePath": "build\\FrontEND.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FrontEND.props",
+      "PackagePath": "buildMultiTargeting\\FrontEND.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FrontEND.props",
+      "PackagePath": "buildTransitive\\FrontEND.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
